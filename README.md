@@ -1,10 +1,12 @@
 UrbanSC Fix: Market Intelligence Dashboard 🚀
+
 🔗 Project Links
+
 [Live Interactive Dashboard](https://la-permits-analysis.streamlit.app/)
 
 [Full Storytelling Report (PDF)](https://github.com/Zheyu-1991/LA_Permits_Analysis/blob/main/UrbanSC%20Fix.pdf)
 
-Data Processing Notebook
+[Data Processing Notebook](https://github.com/Zheyu-1991/LA_Permits_Analysis/blob/main/Analysis_notebook.ipynb)
 
 📊 Business Problem
 UrbanSC Fix is a startup General Contractor entering the highly competitive Los Angeles construction market. Instead of relying on intuition, this project uses public permit data to identify "Blue Ocean" market gaps ignored by established giants.
