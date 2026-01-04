@@ -2,7 +2,7 @@ UrbanSC Fix: Market Intelligence Dashboard 🚀
 
 🔗 Project Links
 
-[Dashboard Preview](dashboard_screenshot.png)
+[Dashboard Preview](Dashboard_screenshot.png)
 
 [Live Interactive Dashboard](https://la-permits-analysis.streamlit.app/)
 
