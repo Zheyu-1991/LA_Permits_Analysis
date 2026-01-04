@@ -1,6 +1,6 @@
 UrbanSC Fix: Market Intelligence Dashboard 🚀
 🔗 Project Links
-Live Interactive Dashboard
+[Live Interactive Dashboard](https://la-permits-analysis.streamlit.app/)
 
 Full Storytelling Report (PDF)
 
